@@ -1,4 +1,4 @@
-## Abou GitHub
+## About GitHub
 * For doing the projects in GitHub,we first create an account by Using Email ID of Student.
 * Then go to repository and give an appropriate repository name.
 * Then click on creating a new file then give a file name.
